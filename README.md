@@ -7,5 +7,9 @@ These notebooks use Python 3.6 and TensorFlow 1.10
 ## Table of contents
 
 * Unit 3:
-    * [3.3: Getting to know our data](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M3-getting-to-know-our-data.ipynb)
+    * [3.3: Getting to know our data](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M3-data.ipynb)
+    * [3.5: Introduction to Neural Networks with TensorFlow](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M5-nn-intro.ipynb)
+    * [3.8: Our Generalized TensorFlow Model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M8-final-model.ipynb)
+    * [3.8: Our Generalized TensorFlow Model (stripped version for exercises)](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M8-final-model-simplified.ipynb)
+    
 * Unit 4:
