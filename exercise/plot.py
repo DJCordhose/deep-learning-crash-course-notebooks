@@ -4,8 +4,7 @@
 # * make the plot a bit larger
 
 # Optional
-# * fit linear regression models to the scatter plots
 # * give each group a different type of marker, use https://matplotlib.org/api/markers_api.html as a reference
 
-# Use the help function build into the notebook to explore Seaborns API by typing
+# Use the help function built into the notebook to explore Seaborns API by typing
 sns.pairplot?
