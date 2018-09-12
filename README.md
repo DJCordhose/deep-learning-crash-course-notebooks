@@ -10,8 +10,7 @@ These notebooks use Python 3.6 and TensorFlow 1.10
     * [Notebook 3.3: Getting to know our data](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M3-data.ipynb)
     * [Notebook 3.5: Introduction to Neural Networks with TensorFlow and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M5-nn-intro.ipynb)
     * [Notebook 3.7: Training Neural Networks with TensorFlow and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M7-nn-training.ipynb)
-    * [Exercise 3.7: Draw Decision Boundaries by hand]
-    (https://raw.githubusercontent.com/DJCordhose/deep-learning-crash-course-notebooks/master/exercise/manual-decision-boundaries.pdf)
+    * [Exercise 3.7: Draw Decision Boundaries by hand](https://raw.githubusercontent.com/DJCordhose/deep-learning-crash-course-notebooks/master/exercise/manual-decision-boundaries.pdf)
     * [Notebook 3.9: Regularization - How to get a decent architecture?](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M9-regularization.ipynb)
     * [Notebook 3.10: Our Final TensorFlow Model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M10-final-model.ipynb)
     
