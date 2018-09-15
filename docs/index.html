@@ -99,22 +99,6 @@
             const value = await prediction.data();
             return value;
         }
-
-        (async () => {
-            const model = await tf.loadModel('ml_insurance/model.json');
-
-            // max speed, age, thousand miles per year
-            const example = tf.tensor([[100, 47, 10]]);
-            const prediction = model.predict(example);
-
-            const value = await prediction.data();
-            // softmax 
-            // # 0: red
-            // # 1: green
-            // # 2: yellow        
-            console.log(value);
-            // [0.0937359631061554, 0.7274655699729919, 0.17879831790924072]
-        })();
     </script>
 
 </body>
