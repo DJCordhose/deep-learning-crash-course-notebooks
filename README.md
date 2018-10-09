@@ -2,7 +2,7 @@
 
 This repository contains notebooks implementing the code samples found in the video course [Deep Learning Crash Course (Manning Publications)](https://livevideo.manning.com/course/64/deep-learning-crash-course?). Note that the video course features far more content than you will find in these notebooks, in particular further explanations and figures. Here we have only included the code samples themselves and immediately related surrounding comments.
 
-These notebooks use Python 3.6 and TensorFlow 1.10
+These notebooks use Python 3.6 and TensorFlow 1.11
 
 ## Table of contents
 
