@@ -15,7 +15,7 @@ These notebooks use Python 3.6 and TensorFlow 1.11
     * [Notebook 3.10: Our Final TensorFlow Model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M10-final-model.ipynb)
     
 * Unit 4:
-  * [Notebook 4.3: Converting our Keras model for tensorflow.js](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U4-M3-tensorflowjs.ipynb)
+  * [Notebook 4.2: Converting our Keras model for tensorflow.js](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U4-M2-tensorflowjs.ipynb)
   * [Notebook 4.4: Preparing our Keras model for serving](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U4-M4-tf-prep.ipynb)
   * [Notebook 4.5: Checking our TensorFlow model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U4-M5-tf-check.ipynb)
   * [Notebook 4.6: Hosting your model on Google Cloud ML](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U4-M6-cloud.ipynb)
