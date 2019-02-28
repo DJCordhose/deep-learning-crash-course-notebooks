@@ -14,14 +14,20 @@
 
 <body>
     <main role="main">
-
         <div class="jumbotron">
             <div class="container">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <h1 class="display-3">ML Car Insurance Risk Check</h1>
                 <p>You can check the risk group for a prospective customer simply by providing three inputs</p>
                 <div>
                     <div class="form-group">
-                        <label for="speed">Speed in MPH</label>
+                        <label for="speed">Max Speed in MPH</label>
                         <input type="number" min="80" max="200" class="form-control" value="100" id="speed" placeholder="Speed in MPH">
                     </div>
                     <div class="form-group">
@@ -47,18 +53,11 @@
                 <br>
                 <br>
                 <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
             </div>
         </div>
     </main>
-    <script src="tfjs@0.12.0"> </script>
+    <script src="tf.js"></script>
     <script>
-        const calcBtn = document.querySelector('#calc-btn');
         const resultField = document.querySelector('#result');
 
         const inSpeed = document.querySelector('#speed');
@@ -68,10 +67,10 @@
         function clearButtons() {
             const buttons = document.querySelectorAll('button.risk');
             buttons.forEach(btn => btn.style.display = 'none');
-            console.log(buttons);
         }
 
-        document.getElementById('calc-btn').addEventListener('click', async () => {
+        const calcBtn = document.querySelector('#calc-btn');
+        calcBtn.addEventListener('click', async () => {
             const speed = parseFloat(inSpeed.value);
             const age = parseFloat(inAge.value);
             const miles = parseFloat(inMiles.value);
@@ -92,13 +91,19 @@
             }
         });
 
-        async function calculate(speed, age, miles) {
-            const model = await tf.loadModel('ml_insurance/model.json');
+        // init
+        let model = null;
+        (async () => {
+            model = await tf.loadLayersModel('ml_insurance/model.json');
+        })();
 
+
+        async function calculate(speed, age, miles) {
             const prediction = model.predict(tf.tensor([[speed, age, miles]]));
             const value = await prediction.data();
             return value;
         }
+
     </script>
 
 </body>

@@ -1,8 +1,8 @@
 <html>
-<script src="tfjs@0.12.0"> </script>
+<script src="tf.js"></script>
 <script>
     (async () => {
-        const model = await tf.loadModel('ml_insurance/model.json');
+        const model = await tf.loadLayersModel('ml_insurance/model.json');
 
         // max speed, age, thousand miles per year
         const example = tf.tensor([[100, 47, 10]]);
