@@ -2,9 +2,25 @@
 
 This repository contains notebooks implementing the code samples found in the video course [Deep Learning Crash Course (Manning Publications)](https://www.manning.com/livevideo/deep-learning-crash-course?a_aid=djcordhose&a_bid=e8e77cbf). Note that the video course features far more content than you will find in these notebooks, in particular further explanations and figures. Here we have only included the code samples themselves and immediately related surrounding comments.
 
-These notebooks have been created using Python 3.6 and TensorFlow 1.11
+## Our Crash Risk Calculator running on TensorFlow.js
 
-## Table of contents
+In this course we train a model that can predict the crash risk of a driver based on three simple inputs.
+We train the model using Colab notebooks on Google's GPU based hardware and convert the final model to a format
+<a href='https://www.tensorflow.org/js/' target='_blank'>TensorFlow.js</a> supports. This allows us to deploy the
+model togther with a simple application that runs serverless in the browser. 
+
+Try is out here:
+
+<a href='https://djcordhose.github.io/deep-learning-crash-course-notebooks/' target='_blank'>
+<img src='img/calc.jpg'>
+</a>
+
+https://djcordhose.github.io/deep-learning-crash-course-notebooks/
+
+
+## Original Notebooks
+
+These notebooks have been created using Python 3.6 and TensorFlow 1.11
 
 * Unit 3:
     * [Notebook 3.3: Getting to know our data](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/U3-M3-data.ipynb)
