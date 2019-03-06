@@ -9,7 +9,7 @@ We train the model using Colab notebooks on Google's GPU based hardware and conv
 <a href='https://www.tensorflow.org/js/' target='_blank'>TensorFlow.js</a> supports. This allows us to deploy the
 model togther with a simple application that runs serverless in the browser. 
 
-Try is out here:
+Try is out here (you will need an up to version of a modern browser to do this):
 
 <a href='https://djcordhose.github.io/deep-learning-crash-course-notebooks/' target='_blank'>
 <img src='img/calc.jpg'>
