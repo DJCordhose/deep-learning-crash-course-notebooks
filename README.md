@@ -25,7 +25,7 @@ These notebooks have been created using Python 3.6 and TensorFlow 1.11
 
 TensorFlow models from Unit 3 converted to TensorFlow 2
 
-_Caution: TensorFlow 2.0 is still not final and on Colab it does not support GPU, yet. Training on CPU might take quite some time._ 
+_Caution: TensorFlow 2.0 is still not final, yet._ 
 
 * Reference
     * https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
