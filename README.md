@@ -41,12 +41,13 @@ These notebooks have been created using Python 3.6 and TensorFlow 1.11
 
 TensorFlow models from Unit 3 converted to TensorFlow 2
 
-_Caution: TensorFlow 2.0 is still not final, yet._ 
+_Caution: TensorFlow 2.0 is still not final, yet._
 
 * Reference
+    * https://www.tensorflow.org/alpha/guide/effective_tf2
+    * https://www.tensorflow.org/alpha/guide/eager
+    * https://www.tensorflow.org/alpha/guide/keras/
     * https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
-    * https://github.com/tensorflow/docs/blob/master/site/en/r2/guide/effective_tf2.md
-    * https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/guide/eager.ipynb
 
 * Unit 3 converted to TensorFlow 2:
     * [Notebook 3.5 / TF 2: Introduction to Neural Networks with TensorFlow and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M5-nn-intro.ipynb)
