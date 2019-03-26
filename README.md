@@ -43,17 +43,25 @@ TensorFlow models from Unit 3 converted to TensorFlow 2
 
 _Caution: TensorFlow 2.0 is still not final, yet._
 
-[Introductory Notebook: Introduction to Neural Networks with Low Level TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/tf-low-level.ipynb)
+* Unit 3 converted to TensorFlow 2:
+    * [Notebook 3.5 / TF 2: Introduction to Neural Networks with TensorFlow 2 and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M5-nn-intro.ipynb)
+    * [Notebook 3.7 / TF 2: Training Neural Networks with TensorFlow 2 and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M7-nn-training.ipynb)
+    * [Notebook 3.9 / TF 2: Regularization - How to get a decent architecture?](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M9-regularization.ipynb)
+    * [Notebook 3.10 / TF 2: Our Final TensorFlow 2 Model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M10-final-model.ipynb)
+
+* Additional Content
+  * [Introductory Notebook: Introduction to Neural Networks with Low Level TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/tf-low-level.ipynb)
+ 
+ * Work in Progress
+   * [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/what-if.ipynb)
+   * [Introduction to CNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/fashion-mnist.ipynb)
+   * [Introduction to RNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/ux-rnn.ipynb)
+
 
 * Reference
     * https://www.tensorflow.org/alpha/guide/effective_tf2
     * https://www.tensorflow.org/alpha/guide/eager
     * https://www.tensorflow.org/alpha/guide/keras/
     * https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
-
-* Unit 3 converted to TensorFlow 2:
-    * [Notebook 3.5 / TF 2: Introduction to Neural Networks with TensorFlow 2 and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M5-nn-intro.ipynb)
-    * [Notebook 3.7 / TF 2: Training Neural Networks with TensorFlow 2 and Keras Layers](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M7-nn-training.ipynb)
-    * [Notebook 3.9 / TF 2: Regularization - How to get a decent architecture?](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M9-regularization.ipynb)
-    * [Notebook 3.10 / TF 2: Our Final TensorFlow 2 Model](https://colab.research.google.com/github/djcordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/U3-M10-final-model.ipynb)
+    * https://pair-code.github.io/what-if-tool/index.html
 
