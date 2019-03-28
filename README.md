@@ -51,12 +51,16 @@ _Caution: TensorFlow 2.0 is still not final, yet._
 
 * Additional Content
   * [Introductory Notebook: Introduction to Neural Networks with Low Level TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/tf-low-level.ipynb)
- 
+
  * Work in Progress
-   * [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/what-if.ipynb)
+   * [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb)
+
+<!---
+
    * [Introduction to CNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/fashion-mnist.ipynb)
    * [Introduction to RNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/ux-rnn.ipynb)
 
+-->
 
 * Reference
     * https://www.tensorflow.org/alpha/guide/effective_tf2
