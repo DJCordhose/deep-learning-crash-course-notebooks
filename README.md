@@ -52,10 +52,7 @@ _Caution: TensorFlow 2.0 is still not final, yet._
 * Additional Content
   * [Introductory Notebook: Introduction to Neural Networks with Low Level TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/tf-low-level.ipynb)
 
- * Work in Progress
-   * [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb)
-
-<!---
+ <!---
 
    * [Introduction to CNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/fashion-mnist.ipynb)
    * [Introduction to RNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/ux-rnn.ipynb)
@@ -68,4 +65,9 @@ _Caution: TensorFlow 2.0 is still not final, yet._
     * https://www.tensorflow.org/alpha/guide/keras/
     * https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
     * https://pair-code.github.io/what-if-tool/index.html
+
+## Data related notebooks
+
+* [Generating Sample Data from Distributions](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/generate.ipynb)
+* [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb)
 
