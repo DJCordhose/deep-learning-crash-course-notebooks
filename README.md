@@ -69,5 +69,11 @@ _Caution: TensorFlow 2.0 is still not final, yet._
 ## Data related notebooks
 
 * [Generating Sample Data from Distributions](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/generate.ipynb)
-* [Analyzing our dataset using the What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb)
+* [Analyzing our dataset using Google's What-if Tool](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb)
+
+<a href='https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/data/what-if.ipynb' target='_blank'>
+<img src='img/what-if.png'>
+</a>
+
+
 
