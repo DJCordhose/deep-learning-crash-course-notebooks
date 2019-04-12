@@ -51,11 +51,11 @@ _Caution: TensorFlow 2.0 is still not final, yet._
 
 * Additional Content
   * [Introductory Notebook: Introduction to Neural Networks with Low Level TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/tf-low-level.ipynb)
+   * [Recurrent Neural Networks for Mouse Events using TensorFlow 2](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/ux-rnn.ipynb)
 
  <!---
 
    * [Introduction to CNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/fashion-mnist.ipynb)
-   * [Introduction to RNNs](https://colab.research.google.com/github/DJCordhose/deep-learning-crash-course-notebooks/blob/master/tf-v2/ux-rnn.ipynb)
 
 -->
 
