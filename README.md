@@ -1,5 +1,7 @@
 # Companion notebooks for the code samples of the video course "Deep Learning Crash Course"
 
+<a href='https://www.manning.com/livevideo/deep-learning-crash-course?a_aid=djcordhose&a_bid=e8e77cbf' target='_blank'><img src='./livevideo-deep-learning-crash-course.png'></a>
+
 This repository contains notebooks implementing the code samples found in the video course [Deep Learning Crash Course (Manning Publications)](https://www.manning.com/livevideo/deep-learning-crash-course?a_aid=djcordhose&a_bid=e8e77cbf). Note that the video course features far more content than you will find in these notebooks, in particular further explanations and figures. Here we have only included the code samples themselves and immediately related surrounding comments.
 
 ## Our Crash Risk Calculator running on TensorFlow.js
